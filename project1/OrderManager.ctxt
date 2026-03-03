@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=OrderManager
+comment1.params=pc
+comment1.target=boolean\ addToCart(PC)
+comment10.params=
+comment10.target=void\ checkFileStatus()
+comment2.params=
+comment2.target=PC[]\ getCartItems()
+comment3.params=
+comment3.target=double\ getCartTotal()
+comment4.params=orderID
+comment4.target=void\ removeFromCart(java.lang.String)
+comment5.params=
+comment5.target=void\ clearCart()
+comment6.params=method\ customerName\ cashPaid\ change
+comment6.target=void\ checkoutAll(java.lang.String,\ java.lang.String,\ double,\ double)
+comment7.params=customerName\ receiptContent
+comment7.target=void\ saveReceiptToFile(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=java.util.ArrayList\ loadAllHistory()
+comment9.params=searchID
+comment9.target=java.lang.String\ trackOrder(java.lang.String)
+numComments=11

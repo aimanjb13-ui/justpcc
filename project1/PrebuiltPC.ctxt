@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PrebuiltPC
+comment1.params=customer\ cpu\ ram\ model\ price
+comment1.target=PrebuiltPC(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calculatePrice()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getDetails()
+numComments=5
